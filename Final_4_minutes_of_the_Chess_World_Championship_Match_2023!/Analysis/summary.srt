@@ -1,0 +1,24 @@
+1
+00:00:00,179 --> 00:00:09,179
+King H2 is played, dangerous for Ding if he's all in for the win, G7 Pawn targeted by bishop on D4
+2
+00:00:09,179 --> 00:00:13,798
+Bishop D4, Queen E4 not checked due to Queen takes B4, wins a piece
+3
+00:00:13,798 --> 00:00:23,278
+Queen C7 is a mistake, Queen has to go back to G6
+4
+00:00:23,278 --> 00:00:35,299
+Bishop C3, A2, Queen C4, A2, Queen E4, King F1, damage control for White
+5
+00:00:35,299 --> 00:00:48,480
+H5 move suggested to protect King, H5, Queen D5, H5, Queen F5, desperation moves for White
+6
+00:00:48,480 --> 00:01:02,940
+Ding is on the verge of winning, A2 move will seal the victory
+7
+00:01:02,940 --> 00:03:02,940
+Ding makes history, first Chinese player to win World Championship, heartbreaking moment for opponent
+8
+00:03:02,940 --> 00:04:43,638
+Dinglerin crowned 2023 World Champion, victory of courage, grit, and determination
