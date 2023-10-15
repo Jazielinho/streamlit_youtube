@@ -1,0 +1,1160 @@
+1
+00:00:00,000 --> 00:00:04,019
+we are expecting a repetition at this
+
+2
+00:00:02,158 --> 00:00:06,778
+point we're doing falling back with the
+
+3
+00:00:04,019 --> 00:00:08,339
+King to G8 Rook G6 is not a move that
+
+4
+00:00:06,778 --> 00:00:09,839
+you consider here right it's the only
+
+5
+00:00:08,339 --> 00:00:11,460
+move that I feel with black keeps the
+
+6
+00:00:09,839 --> 00:00:13,500
+game going but it looks like more like a
+
+7
+00:00:11,460 --> 00:00:15,599
+losing move than a winning attempt
+
+8
+00:00:13,500 --> 00:00:18,899
+the fruit G6 is not better for what I'd
+
+9
+00:00:15,599 --> 00:00:22,019
+be shocked but it's not definitely oh my
+
+10
+00:00:18,899 --> 00:00:22,019
+God what
+
+11
+00:00:23,039 --> 00:00:26,279
+for a win
+
+12
+00:00:24,359 --> 00:00:29,160
+the rent tried to win this game because
+
+13
+00:00:26,278 --> 00:00:31,259
+this is a big moment the bishop on E3 is
+
+14
+00:00:29,160 --> 00:00:33,000
+pinned the Queens are looking at each
+
+15
+00:00:31,260 --> 00:00:36,359
+other through that Bishop so if you
+
+16
+00:00:33,000 --> 00:00:39,359
+can't take on C5 black is up a pawn and
+
+17
+00:00:36,359 --> 00:00:41,399
+dingley Wren I keep using this Hemingway
+
+18
+00:00:39,359 --> 00:00:43,558
+uh expression you know he said courage
+
+19
+00:00:41,399 --> 00:00:45,539
+is Grace Under Pressure he's courageous
+
+20
+00:00:43,558 --> 00:00:46,979
+and queen of five use black the upper
+
+21
+00:00:45,539 --> 00:00:49,558
+hand apparently
+
+22
+00:00:46,979 --> 00:00:51,599
+yeah is he just pushing but but wait why
+
+23
+00:00:49,558 --> 00:00:55,878
+would white black be better here
+
+24
+00:00:51,600 --> 00:00:55,879
+uh you push with C4 yeah that's
+
+25
+00:00:56,460 --> 00:01:00,899
+actually C4 C4 is
+
+26
+00:00:58,738 --> 00:01:02,578
+on the board why it's got to go H4 H5
+
+27
+00:01:00,899 --> 00:01:03,960
+right that's the plan but black stops it
+
+28
+00:01:02,579 --> 00:01:06,180
+with H5
+
+29
+00:01:03,960 --> 00:01:08,460
+or queen G4 as well you could try to
+
+30
+00:01:06,180 --> 00:01:10,618
+trade Queens you are up two queen side
+
+31
+00:01:08,459 --> 00:01:12,599
+passers and we keep talking about Blitz
+
+32
+00:01:10,618 --> 00:01:14,640
+this is about to be a Blitz game where
+
+33
+00:01:12,599 --> 00:01:16,500
+yonda palmchi is currently up almost a
+
+34
+00:01:14,640 --> 00:01:18,719
+minute but he is down a pawn and those
+
+35
+00:01:16,500 --> 00:01:19,920
+are some scary pawns to be down I'm in
+
+36
+00:01:18,719 --> 00:01:22,079
+absolute shock that Ding actually
+
+37
+00:01:19,920 --> 00:01:24,000
+decided to continue the game with just a
+
+38
+00:01:22,079 --> 00:01:26,759
+minute on the clock he's refused their
+
+39
+00:01:24,000 --> 00:01:28,500
+repetition going into Blitz
+
+40
+00:01:26,759 --> 00:01:30,478
+yeah this is a pretty wild decision
+
+41
+00:01:28,500 --> 00:01:31,978
+Maybe
+
+42
+00:01:30,478 --> 00:01:33,659
+it actually looks like a brilliant
+
+43
+00:01:31,978 --> 00:01:37,078
+decision but probably because this queen
+
+44
+00:01:33,659 --> 00:01:39,118
+F5 was was a mistake
+
+45
+00:01:37,078 --> 00:01:40,319
+um and maybe he just missed C4 he
+
+46
+00:01:39,118 --> 00:01:42,239
+thought he's picking up that pawn but
+
+47
+00:01:40,319 --> 00:01:44,758
+he's not picking up that pawn
+
+48
+00:01:42,239 --> 00:01:46,739
+so what does he do Bishop
+
+49
+00:01:44,759 --> 00:01:50,280
+D4
+
+50
+00:01:46,739 --> 00:01:51,899
+I just want to stop C3 there
+
+51
+00:01:50,280 --> 00:01:54,060
+Queen D3 yeah
+
+52
+00:01:51,899 --> 00:01:57,540
+yeah Queen D3
+
+53
+00:01:54,060 --> 00:02:00,780
+oh my gosh this is a position where Jan
+
+54
+00:01:57,540 --> 00:02:02,880
+might have only one move to survive I I
+
+55
+00:02:00,780 --> 00:02:04,739
+see the eval bar saying 0.3 but that is
+
+56
+00:02:02,879 --> 00:02:06,599
+completely misleading everybody there
+
+57
+00:02:04,739 --> 00:02:08,459
+are two separate pass pawns most
+
+58
+00:02:06,599 --> 00:02:10,799
+importantly there's Advanced C pawn and
+
+59
+00:02:08,459 --> 00:02:13,680
+you want to rush upon H5 you do not get
+
+60
+00:02:10,800 --> 00:02:15,420
+that the queen steps to G4 after Pawn HR
+
+61
+00:02:13,680 --> 00:02:18,239
+offering a queen trade and then the pawn
+
+62
+00:02:15,419 --> 00:02:20,098
+goes up to C3 Bobby Tanya this is
+
+63
+00:02:18,239 --> 00:02:21,480
+worrisome territory for Jana Pomchi
+
+64
+00:02:20,098 --> 00:02:23,459
+who's dipping to just about a minute and
+
+65
+00:02:21,479 --> 00:02:26,818
+that was a mistake
+
+66
+00:02:23,459 --> 00:02:28,979
+oh Queen D3 not even Queen G4 Queen D3
+
+67
+00:02:26,818 --> 00:02:31,738
+that's the best way
+
+68
+00:02:28,979 --> 00:02:33,179
+yeah that that's really really bad for
+
+69
+00:02:31,739 --> 00:02:35,640
+white
+
+70
+00:02:33,180 --> 00:02:38,400
+oh my goodness the C3 is happening move
+
+71
+00:02:35,639 --> 00:02:40,979
+Rook G6 we were thinking that's not even
+
+72
+00:02:38,400 --> 00:02:43,560
+a possibility and such a brave decision
+
+73
+00:02:40,979 --> 00:02:45,659
+and it's paying off ding Loren with the
+
+74
+00:02:43,560 --> 00:02:48,000
+reval bar it shows that he's clearly
+
+75
+00:02:45,659 --> 00:02:49,979
+better better here but practically Fabi
+
+76
+00:02:48,000 --> 00:02:51,719
+how easy is this in um with a minute on
+
+77
+00:02:49,979 --> 00:02:53,340
+the clock and Jan there keeps the Queens
+
+78
+00:02:51,719 --> 00:02:56,280
+on the board which is absolutely crucial
+
+79
+00:02:53,340 --> 00:02:58,439
+for any play with white he has to get H5
+
+80
+00:02:56,280 --> 00:02:59,759
+in Rook D1 like it's just pushing like
+
+81
+00:02:58,439 --> 00:03:00,959
+what does the H5 matter because you
+
+82
+00:02:59,759 --> 00:03:02,518
+don't give checks on the diagonal
+
+83
+00:03:00,959 --> 00:03:03,780
+anymore
+
+84
+00:03:02,519 --> 00:03:05,659
+like
+
+85
+00:03:03,780 --> 00:03:07,620
+oh
+
+86
+00:03:05,659 --> 00:03:09,780
+okay
+
+87
+00:03:07,620 --> 00:03:13,680
+C3 F6
+
+88
+00:03:09,780 --> 00:03:15,780
+it doesn't seem to change a huge amount
+
+89
+00:03:13,680 --> 00:03:17,580
+yeah what are you doing here as white
+
+90
+00:03:15,780 --> 00:03:19,919
+because the queen on D3 is so well
+
+91
+00:03:17,580 --> 00:03:20,940
+positioned and I he goes Rook D1 he
+
+92
+00:03:19,919 --> 00:03:22,339
+wants to chase the Queen off the
+
+93
+00:03:20,939 --> 00:03:25,680
+diagonal I think that's a good choice
+
+94
+00:03:22,340 --> 00:03:27,840
+just slide back to F5 and then Queen C4
+
+95
+00:03:25,680 --> 00:03:29,700
+he has to to engineer some sort of Rook
+
+96
+00:03:27,840 --> 00:03:32,219
+d8 Rook D5 like something with activity
+
+97
+00:03:29,699 --> 00:03:34,199
+oh but I like this because if Queen C4
+
+98
+00:03:32,219 --> 00:03:35,939
+this Rook C6 now the queen and Rook
+
+99
+00:03:34,199 --> 00:03:37,259
+along the sixth rank helps to push the
+
+100
+00:03:35,939 --> 00:03:39,239
+pawn
+
+101
+00:03:37,259 --> 00:03:42,620
+that's a good move so wait does the
+
+102
+00:03:39,239 --> 00:03:42,620
+Queen have to go to E2
+
+103
+00:03:43,799 --> 00:03:46,439
+but that's not what you want to do
+
+104
+00:03:45,120 --> 00:03:49,140
+because then Rook C6 anyway with the
+
+105
+00:03:46,439 --> 00:03:51,239
+threat of C2 Bishop to A3 and he's also
+
+106
+00:03:49,139 --> 00:03:57,598
+has no time
+
+107
+00:03:51,239 --> 00:03:59,340
+oh wow so yeah this is very very close
+
+108
+00:03:57,598 --> 00:04:01,439
+oh my goodness we're stunned into
+
+109
+00:03:59,340 --> 00:04:02,939
+silence maybe you need to play Queen E2
+
+110
+00:04:01,439 --> 00:04:05,878
+quickly and just pray
+
+111
+00:04:02,939 --> 00:04:07,318
+I mean obviously your position is bad
+
+112
+00:04:05,878 --> 00:04:09,539
+uh but at least keep some time on the
+
+113
+00:04:07,318 --> 00:04:11,699
+clock he's down to 35 seconds ding's the
+
+114
+00:04:09,539 --> 00:04:13,679
+one with the time Advantage Fabi
+
+115
+00:04:11,699 --> 00:04:15,179
+yeah well white has to keep some time on
+
+116
+00:04:13,680 --> 00:04:17,879
+the clock just in case it turns into a
+
+117
+00:04:15,180 --> 00:04:20,100
+mess at some point wait now Rook C6 what
+
+118
+00:04:17,879 --> 00:04:21,899
+is even the idea is he gonna try to
+
+119
+00:04:20,100 --> 00:04:23,939
+sacrifice a piece and go for an attack
+
+120
+00:04:21,899 --> 00:04:25,439
+against this King that should not pan
+
+121
+00:04:23,939 --> 00:04:28,439
+out but maybe this Kings have tried to
+
+122
+00:04:25,439 --> 00:04:30,660
+hide on H2 and in a scramble if it gets
+
+123
+00:04:28,439 --> 00:04:31,978
+into real time trouble for black when
+
+124
+00:04:30,660 --> 00:04:33,120
+you under attack that's when mistakes
+
+125
+00:04:31,978 --> 00:04:35,279
+happen
+
+126
+00:04:33,120 --> 00:04:38,759
+yeah maybe good practical shot I mean
+
+127
+00:04:35,279 --> 00:04:40,859
+for sure this psac is his idea uh it
+
+128
+00:04:38,759 --> 00:04:42,360
+doesn't work like all these things are
+
+129
+00:04:40,860 --> 00:04:43,740
+definitely true but
+
+130
+00:04:42,360 --> 00:04:46,319
+like
+
+131
+00:04:43,740 --> 00:04:49,560
+he wants to avoid it so
+
+132
+00:04:46,319 --> 00:04:51,360
+we're now Rook to C1 at least
+
+133
+00:04:49,560 --> 00:04:52,500
+or wait can you trade maybe you could
+
+134
+00:04:51,360 --> 00:04:53,939
+trade
+
+135
+00:04:52,500 --> 00:04:55,620
+oh let's give him a question mark you
+
+136
+00:04:53,939 --> 00:04:57,418
+can trade and then try to get your queen
+
+137
+00:04:55,620 --> 00:04:59,040
+back to E4 at some point try to make it
+
+138
+00:04:57,418 --> 00:05:02,279
+just try to like hold a move by move
+
+139
+00:04:59,040 --> 00:05:03,540
+yeah Queen E4 Queen C4 and it's not an
+
+140
+00:05:02,279 --> 00:05:05,159
+it's not a media drawer but you're
+
+141
+00:05:03,540 --> 00:05:06,660
+saying black cannot easily progress
+
+142
+00:05:05,160 --> 00:05:09,360
+because the
+
+143
+00:05:06,660 --> 00:05:12,600
+and he finds it here we need four Queen
+
+144
+00:05:09,360 --> 00:05:14,639
+G6 Queen C4 good good try
+
+145
+00:05:12,600 --> 00:05:16,560
+and not only C2 a good practice let's
+
+146
+00:05:14,639 --> 00:05:18,900
+try sorry Fabi but look at the eval bar
+
+147
+00:05:16,560 --> 00:05:21,660
+it says minus 1.4 or is it nearly minus
+
+148
+00:05:18,899 --> 00:05:23,219
+four so Jan may be fighting back in this
+
+149
+00:05:21,660 --> 00:05:25,620
+game just when it looked like dingley
+
+150
+00:05:23,220 --> 00:05:27,000
+Wren would be crowned world champion
+
+151
+00:05:25,620 --> 00:05:29,759
+well it's very difficult to advance that
+
+152
+00:05:27,000 --> 00:05:33,839
+pawn because C2 is allowing H5 ideas
+
+153
+00:05:29,759 --> 00:05:35,520
+and if not C2 then maybe you play H5
+
+154
+00:05:33,839 --> 00:05:38,879
+with black here maybe you really need to
+
+155
+00:05:35,519 --> 00:05:40,139
+get those light squares under control
+
+156
+00:05:38,879 --> 00:05:41,939
+okay you can give a check it probably
+
+157
+00:05:40,139 --> 00:05:44,340
+doesn't change a whole lot because you
+
+158
+00:05:41,939 --> 00:05:46,439
+want to stop anything
+
+159
+00:05:44,339 --> 00:05:47,459
+pushing the a pawn maybe maybe but then
+
+160
+00:05:46,439 --> 00:05:49,379
+Bishop to
+
+161
+00:05:47,459 --> 00:05:51,299
+somewhere Bishop D4 will get some
+
+162
+00:05:49,379 --> 00:05:52,620
+counter play Maybe King goes to H2 not
+
+163
+00:05:51,300 --> 00:05:55,800
+to allow Queen E4 check although
+
+164
+00:05:52,620 --> 00:05:58,019
+probably doesn't change much
+
+165
+00:05:55,800 --> 00:06:00,180
+goodness King H2 is played and look at
+
+166
+00:05:58,019 --> 00:06:02,399
+the eval bar it's going near level this
+
+167
+00:06:00,180 --> 00:06:04,439
+could be dangerous for for a ding if
+
+168
+00:06:02,399 --> 00:06:07,138
+he's all In For the Win he could find
+
+169
+00:06:04,439 --> 00:06:09,418
+himself under pressure with his G7 Pawn
+
+170
+00:06:07,139 --> 00:06:11,639
+targeted by the bishop on D4 as well
+
+171
+00:06:09,418 --> 00:06:13,799
+yeah I mean like Bishop D4 C2 maybe you
+
+172
+00:06:11,639 --> 00:06:15,060
+lose because of Queen uh to F7 yeah
+
+173
+00:06:13,800 --> 00:06:16,740
+something like that obviously you never
+
+174
+00:06:15,060 --> 00:06:18,600
+you would never want to allow but
+
+175
+00:06:16,740 --> 00:06:20,639
+generally speaking black does not risk
+
+176
+00:06:18,600 --> 00:06:22,259
+here but Bishop D4 the point of the King
+
+177
+00:06:20,639 --> 00:06:25,939
+on H2 Queen E4 was not checked because
+
+178
+00:06:22,259 --> 00:06:29,580
+Queen takes B4 wins a piece 17 seconds
+
+179
+00:06:25,939 --> 00:06:32,279
+and that was correct one wait A3 and
+
+180
+00:06:29,579 --> 00:06:33,839
+oh is he going back queen of seven Queen
+
+181
+00:06:32,279 --> 00:06:36,418
+B3
+
+182
+00:06:33,839 --> 00:06:39,119
+or is the queen of Southern Queen C4
+
+183
+00:06:36,418 --> 00:06:40,918
+yeah uh Queen G6 is available I think
+
+184
+00:06:39,120 --> 00:06:42,240
+that's what you we're indicating the
+
+185
+00:06:40,918 --> 00:06:43,799
+pawns protected he goes Queen 27 which
+
+186
+00:06:42,240 --> 00:06:45,000
+is a mistake a huge mistake in time
+
+187
+00:06:43,800 --> 00:06:46,800
+travel from Beyond the Palm Tree the
+
+188
+00:06:45,000 --> 00:06:48,660
+queen has to go back to G6 that's the
+
+189
+00:06:46,800 --> 00:06:50,879
+good news for dingley red he has only
+
+190
+00:06:48,660 --> 00:06:53,340
+one move here and Jan is the one down to
+
+191
+00:06:50,879 --> 00:06:56,100
+20 seconds and counting down
+
+192
+00:06:53,339 --> 00:06:57,959
+wait Bishop C3
+
+193
+00:06:56,100 --> 00:06:59,520
+oh which is A2 and queen B1 man there's
+
+194
+00:06:57,959 --> 00:07:01,439
+no checks yeah yeah that's
+
+195
+00:06:59,519 --> 00:07:03,659
+yeah I think this is over
+
+196
+00:07:01,439 --> 00:07:05,100
+oh my God Queen C4 back it's the only
+
+197
+00:07:03,660 --> 00:07:07,080
+only move
+
+198
+00:07:05,100 --> 00:07:09,240
+will he find it the only way to keep the
+
+199
+00:07:07,079 --> 00:07:11,459
+game going is Queen back to C4 going
+
+200
+00:07:09,240 --> 00:07:15,620
+after the bishop he plays just that so
+
+201
+00:07:11,459 --> 00:07:15,620
+good find C2 now yeah this is
+
+202
+00:07:17,100 --> 00:07:21,060
+so close to disaster
+
+203
+00:07:19,079 --> 00:07:23,639
+what he's holding on right now is Bishop
+
+204
+00:07:21,060 --> 00:07:26,519
+C5 oh no it's not I was trying to get
+
+205
+00:07:23,639 --> 00:07:27,720
+too clever Bishop D6 this H4 Pawn may be
+
+206
+00:07:26,519 --> 00:07:30,060
+hanging in some positions he goes King
+
+207
+00:07:27,720 --> 00:07:31,440
+G2 which keeps it in minus three so
+
+208
+00:07:30,060 --> 00:07:33,720
+that's obviously an advantage for black
+
+209
+00:07:31,439 --> 00:07:34,978
+but maybe it's time Fabi for your H5
+
+210
+00:07:33,720 --> 00:07:37,919
+move just because you don't want this
+
+211
+00:07:34,978 --> 00:07:40,019
+King to be checked uh left and right you
+
+212
+00:07:37,918 --> 00:07:41,159
+know non-stop so maybe H5 helps that
+
+213
+00:07:40,019 --> 00:07:42,659
+King
+
+214
+00:07:41,160 --> 00:07:44,759
+just to stop white because white is
+
+215
+00:07:42,660 --> 00:07:46,800
+there any H5 now it white has a threat
+
+216
+00:07:44,759 --> 00:07:50,460
+of H5 H5 queen of five G4 and the queen
+
+217
+00:07:46,800 --> 00:07:52,620
+has to lose contact with the C2 Pawn H5
+
+218
+00:07:50,459 --> 00:07:54,478
+uh might not be an easy decision because
+
+219
+00:07:52,620 --> 00:07:56,098
+you feel like if my Queen ever gets
+
+220
+00:07:54,478 --> 00:07:58,800
+active then white will Target that H
+
+221
+00:07:56,098 --> 00:08:01,019
+Pawn definitely a difficult decision but
+
+222
+00:07:58,800 --> 00:08:02,879
+might be the right move
+
+223
+00:08:01,019 --> 00:08:04,859
+if he plays H5 why we'll play Queen to
+
+224
+00:08:02,879 --> 00:08:07,379
+D5
+
+225
+00:08:04,860 --> 00:08:08,639
+H5 Queen do you find the oh I was gonna
+
+226
+00:08:07,379 --> 00:08:10,439
+say A2 but you can just take my Pawn
+
+227
+00:08:08,639 --> 00:08:12,300
+yeah it doesn't work that works because
+
+228
+00:08:10,439 --> 00:08:13,740
+Queen E4 take this bishop
+
+229
+00:08:12,300 --> 00:08:15,180
+oh yeah he can actually play A2
+
+230
+00:08:13,740 --> 00:08:16,620
+immediately
+
+231
+00:08:15,180 --> 00:08:18,478
+although you'd be very careful here
+
+232
+00:08:16,620 --> 00:08:20,399
+let's see King F1 oh I don't think the
+
+233
+00:08:18,478 --> 00:08:22,258
+king in the belongs the first rank that
+
+234
+00:08:20,399 --> 00:08:23,098
+means a pawn might promote with check at
+
+235
+00:08:22,259 --> 00:08:25,199
+some point
+
+236
+00:08:23,098 --> 00:08:28,079
+wait now King E2 Queen G4 so you can't
+
+237
+00:08:25,199 --> 00:08:30,120
+move your king but he was avoiding this
+
+238
+00:08:28,079 --> 00:08:32,218
+A2 Queen E4 Queen E3 because he saw that
+
+239
+00:08:30,120 --> 00:08:34,379
+option he was avoiding it with King F1
+
+240
+00:08:32,219 --> 00:08:35,820
+boy now Bishop to B2 is coming this is
+
+241
+00:08:34,379 --> 00:08:37,918
+just game over I mean there's no more
+
+242
+00:08:35,820 --> 00:08:39,659
+hope here the bishop on V2 white doesn't
+
+243
+00:08:37,918 --> 00:08:42,179
+even have counter play
+
+244
+00:08:39,658 --> 00:08:44,158
+he's going for just desperation
+
+245
+00:08:42,179 --> 00:08:46,739
+for the H5 Queen F5 yeah this is
+
+246
+00:08:44,158 --> 00:08:49,559
+desperation is not working out ding is
+
+247
+00:08:46,740 --> 00:08:51,778
+going to win this match unbelievable
+
+248
+00:08:49,559 --> 00:08:53,639
+the resilience from dingley Ren he
+
+249
+00:08:51,778 --> 00:08:55,139
+brings his Queen up now it's on F5
+
+250
+00:08:53,639 --> 00:08:56,338
+there's a pass Pawn C2 that's defended
+
+251
+00:08:55,139 --> 00:08:58,379
+you can't distract the queen anymore
+
+252
+00:08:56,339 --> 00:09:00,120
+dingley run who is down a point in this
+
+253
+00:08:58,379 --> 00:09:01,799
+match is he about to become a world
+
+254
+00:09:00,120 --> 00:09:03,919
+champion
+
+255
+00:09:01,799 --> 00:09:06,059
+foreign
+
+256
+00:09:03,919 --> 00:09:07,620
+do anything here
+
+257
+00:09:06,059 --> 00:09:10,439
+I mean he doesn't have to panic but he
+
+258
+00:09:07,620 --> 00:09:13,440
+can play A2 oh
+
+259
+00:09:10,440 --> 00:09:14,160
+Queen D3 probably wins G3 probably wins
+
+260
+00:09:13,440 --> 00:09:18,180
+yeah
+
+261
+00:09:14,159 --> 00:09:20,338
+and now A2 A2 is super super winning
+
+262
+00:09:18,179 --> 00:09:22,739
+not even hope he's left we're just
+
+263
+00:09:20,339 --> 00:09:24,600
+seconds away from thing becoming the
+
+264
+00:09:22,740 --> 00:09:27,959
+world champion if he just plays the next
+
+265
+00:09:24,600 --> 00:09:30,720
+few accurate moves it's all over
+
+266
+00:09:27,958 --> 00:09:33,299
+I just want to move A2 and it's over
+
+267
+00:09:30,720 --> 00:09:35,540
+and it's on the board
+
+268
+00:09:33,299 --> 00:09:38,039
+oh my goodness
+
+269
+00:09:35,539 --> 00:09:39,299
+he sits up in his chair but he knows
+
+270
+00:09:38,039 --> 00:09:42,500
+this might be the last few moves of his
+
+271
+00:09:39,299 --> 00:09:42,500
+world championship oh my God
+
+272
+00:09:42,720 --> 00:09:48,600
+oh you see it he knows
+
+273
+00:09:45,720 --> 00:09:50,100
+he knows it
+
+274
+00:09:48,600 --> 00:09:53,060
+yeah Bishop takes F4 is easy
+
+275
+00:09:50,100 --> 00:09:53,060
+heartbreaking
+
+276
+00:09:54,360 --> 00:09:59,360
+it's over dingling is the world just
+
+277
+00:09:57,419 --> 00:10:02,519
+champion
+
+278
+00:09:59,360 --> 00:10:04,320
+wow he has made history as the first
+
+279
+00:10:02,519 --> 00:10:06,419
+Chinese player to win the World
+
+280
+00:10:04,320 --> 00:10:09,959
+Championship we see handshakes that Ding
+
+281
+00:10:06,419 --> 00:10:12,778
+is overtaken by emotions he isn't able
+
+282
+00:10:09,958 --> 00:10:15,119
+to leave the board and for yeah a
+
+283
+00:10:12,778 --> 00:10:17,639
+heartbreaking moment there he leaves the
+
+284
+00:10:15,120 --> 00:10:20,100
+hall this has been a fight of Courage of
+
+285
+00:10:17,639 --> 00:10:22,500
+grit and determination and all of that
+
+286
+00:10:20,100 --> 00:10:25,740
+has paid off for dingler and take a
+
+287
+00:10:22,500 --> 00:10:27,778
+moment and admire ding right now what a
+
+288
+00:10:25,740 --> 00:10:32,039
+match this has been and a deserving
+
+289
+00:10:27,778 --> 00:10:34,338
+victory for dingler in yes 2023 world
+
+290
+00:10:32,039 --> 00:10:34,338
+champion
+
