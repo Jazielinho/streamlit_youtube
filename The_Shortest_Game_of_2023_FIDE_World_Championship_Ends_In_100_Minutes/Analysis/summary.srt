@@ -1,0 +1,35 @@
+1
+00:00:00,060 --> 00:00:05,879
+Robert predicts that the game will end in a draw.
+
+2
+00:00:05,879 --> 00:00:09,240
+The players are simplifying the position.
+
+3
+00:00:09,240 --> 00:00:13,740
+The queens are about to come off, indicating a draw.
+
+4
+00:00:24,899 --> 00:00:30,900
+There is a three-time repetition, signaling a draw.
+
+5
+00:00:33,899 --> 00:00:38,939
+The players call an arbiter to confirm the draw.
+
+6
+00:00:41,640 --> 00:00:46,259
+The position has been repeated three times.
+
+7
+00:00:48,299 --> 00:00:53,000
+The game ends in a draw.
+
+8
+00:00:55,500 --> 00:00:58,799
+Permission is needed to make a draw.
+
+9
+00:01:01,439 --> 00:01:09,500
+The players shake hands and it's a split point.
