@@ -15,11 +15,11 @@ directory = __file__.split('main.py')[0]
 
 # youtube_videos = os.listdir(directory)
 youtube_videos = [
-"Ding_Doesn't_Know_Chinese?",
+    # '2023_FIDE_World_Championship_Match_FINAL_RECAP',
+    "Ding_Doesn't_Know_Chinese?",
     'Final_4_minutes_of_the_Chess_World_Championship_Match_2023!',
     'The_Feeling_Of_Winning_A_World_Chess_Championship',
     'The_moment_Ding_Liren_became_World_Chess_Champion',
-    'The_Praggnanandhaa_interview_after_he_won_the_silver_medal_at_the_FIDE_World_Cup_2023',
     'The_Shortest_Game_of_2023_FIDE_World_Championship_Ends_In_100_Minutes',
     'Why_Is_Everyone_Supporting_Ding_Liren?'
 ]
