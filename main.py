@@ -69,6 +69,7 @@ if 'statistics' not in st.session_state:
     st.session_state['statistics'] = {}
 
     for video_dir in youtube_videos:
+        print(video_dir)
         st.session_state['statistics'][video_dir] = get_video_statistics(video_dir)
 
 
