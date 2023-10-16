@@ -139,7 +139,7 @@ if st.button('Analysis'):
         fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['negative'], name='Sentimiento negativo'), secondary_y=False)
         fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['neutral'], name='Sentimiento neutral'), secondary_y=False)
         fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['positive'], name='Sentimiento positivo'), secondary_y=False)
-        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad de textos y sentimientos en imágenes')
+        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad y sentimientos en imágenes')
         fig.update_layout(width=WIDTH, height=HEIGHT * 1.5)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -156,7 +156,7 @@ if st.button('Analysis'):
         fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['negative'], name='Sentimiento negativo'), secondary_y=False)
         fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['neutral'], name='Sentimiento neutral'), secondary_y=False)
         fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['positive'], name='Sentimiento positivo'), secondary_y=False)
-        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad de textos y sentimientos en Faces')
+        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad y sentimientos en Faces')
         fig.update_layout(width=WIDTH, height=HEIGHT * 1.5)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -200,7 +200,7 @@ if st.button('Analysis'):
         fig.add_trace(go.Bar(x=topic_count_sentiment_df['topic_label'], y=topic_count_sentiment_df['negative'], name='Sentimiento negativo'), secondary_y=False)
         fig.add_trace(go.Bar(x=topic_count_sentiment_df['topic_label'], y=topic_count_sentiment_df['neutral'], name='Sentimiento neutral'), secondary_y=False)
         fig.add_trace(go.Bar(x=topic_count_sentiment_df['topic_label'], y=topic_count_sentiment_df['positive'], name='Sentimiento positivo'), secondary_y=False)
-        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad de textos y sentimientos por tópico')
+        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad y sentimientos por tópico')
         fig.update_layout(width=WIDTH, height=HEIGHT * 1.5)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -243,7 +243,7 @@ if st.button('Analysis'):
             fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['negative'], name='Sentimiento negativo'), secondary_y=False)
             fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['neutral'], name='Sentimiento neutral'), secondary_y=False)
             fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['positive'], name='Sentimiento positivo'), secondary_y=False)
-            fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad de textos y sentimientos en imágenes, tópico: {}'.format(topics_name[topic]))
+            fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad y sentimientos en imágenes, tópico: {}'.format(topics_name[topic]))
             fig.update_layout(width=WIDTH * 0.4, height=HEIGHT)
             st.plotly_chart(fig, use_container_width=True)
 
@@ -286,7 +286,7 @@ if st.button('Analysis'):
         fig.add_trace(go.Bar(x=topic_count_sentiment_df['topic_label'], y=topic_count_sentiment_df['negative'], name='Sentimiento negativo'), secondary_y=False)
         fig.add_trace(go.Bar(x=topic_count_sentiment_df['topic_label'], y=topic_count_sentiment_df['neutral'], name='Sentimiento neutral'), secondary_y=False)
         fig.add_trace(go.Bar(x=topic_count_sentiment_df['topic_label'], y=topic_count_sentiment_df['positive'], name='Sentimiento positivo'), secondary_y=False)
-        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad de textos y sentimientos por tópico')
+        fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad y sentimientos por tópico')
         fig.update_layout(width=WIDTH, height=HEIGHT * 1.5)
         st.plotly_chart(fig, use_container_width=True)
 
@@ -329,7 +329,7 @@ if st.button('Analysis'):
             fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['negative'], name='Sentimiento negativo'), secondary_y=False)
             fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['neutral'], name='Sentimiento neutral'), secondary_y=False)
             fig.add_trace(go.Bar(x=count_sentiment_df['second_grouped'], y=count_sentiment_df['positive'], name='Sentimiento positivo'), secondary_y=False)
-            fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad de textos y sentimientos en Faces, tópico: {}'.format(str(topic)))
+            fig.update_layout(barmode='stack', legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1), title_text='Cantidad y sentimientos en Faces, tópico: {}'.format(str(topic)))
             fig.update_layout(width=WIDTH * 0.4, height=HEIGHT)
             st.plotly_chart(fig, use_container_width=True)
 
